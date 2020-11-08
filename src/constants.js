@@ -1,6 +1,6 @@
 let constantVar = {
-    userName: "admin",
-    pass: "admin123",
+    userName: "",
+    pass: "",
     port: "3000",
     key: "todolist"
 };
